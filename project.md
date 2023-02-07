@@ -109,13 +109,13 @@ There's only one used file so far on user1.
 
 <!-- TODO -->
 ```
-The total size of those files are 
+The total size of those files are 1 KB, I think. I'm not actually too sure why.
 ```
 
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/hands-on_5.6.png)
 
 ## Project 5-7
 
